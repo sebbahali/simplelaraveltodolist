@@ -1,16 +1,16 @@
 # simplelaraveltodolist
 
-simple laravel to dolist
+1-simple laravel to dolist
 
-composer install
+2-composer install
 
-create database and change in env. file
+3-create database and change in env. file
 
-php artisan migrate
+4-php artisan migrate
 
-php artisan storage:link
+5-php artisan storage:link
 
-php artisan serve
+6-php artisan serve
 
-go yourdomain/main
+7-go yourdomain/main
 
