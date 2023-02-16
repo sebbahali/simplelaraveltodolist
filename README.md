@@ -7,7 +7,7 @@ then run in cmnd
 
 2-composer install
 
-3-create database and change in env. file
+3-create database and copy then paste and rename .env.example to env. file and change it 
 
 4-php artisan migrate
 
