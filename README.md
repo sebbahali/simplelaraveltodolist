@@ -1,4 +1,7 @@
 # simplelaraveltodolist
+download zip file 
+
+then run in cmnd
 
 1-simple laravel to dolist
 
